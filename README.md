@@ -16,7 +16,7 @@ As part of the Decolonize Your Syllabus movement (#decolonizeyoursyllabus), Rena
 - popular culture centered on Pagan practice
 - goddess-centered religious paths 
 
-## Fitness 
+### Fitness 
 
 Renae is an **AFAA** (Athletics and Fitness Association of America) certified group fitness instructor.  She specializes in cardio fitness and weight training for all ages.  Renae is also an endurance running coach, guiding those new to running as well as anyone seeking to increase mileage without injury.  
 
