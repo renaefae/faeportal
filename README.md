@@ -2,12 +2,11 @@
 
 Find a number of resources here with regard to Renae's web development, scholarship, and fitness.  
 
-### Web Development
+```markdown
+
+### Web Development 
 
 Renae is proficient in HTML, CSS (particularly CSS Grid), and JavaScript.  
-
-```markdown
-Syntax highlighted code block
 
 ### Scholarship
 
@@ -17,9 +16,10 @@ As part of the Decolonize Your Syllabus movement (#decolonizeyoursyllabus), Rena
 - popular culture centered on Pagan practice
 - goddess-centered religious paths 
 
-
 **Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
 
+Be sure to email with questions: renaelmitchell@gmail.com
+@dev_ersity 
