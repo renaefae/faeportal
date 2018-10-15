@@ -2,11 +2,13 @@
 
 Find a number of resources here with regard to Renae's web development, scholarship, and fitness.  
 
-```markdown
-
 ### Web Development 
 
 Renae is proficient in HTML, CSS (particularly CSS Grid), and JavaScript.  
+
+```markdown
+
+
 
 ### Scholarship
 
