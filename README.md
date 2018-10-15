@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Renae's Git Site!
 
-You can use the [editor on GitHub](https://github.com/renaefae/faeportal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Find a number of resources here with regard to Renae's web development, scholarship, and fitness.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Web Development
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Renae is proficient in HTML, CSS (particularly CSS Grid), and JavaScript.  
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Scholarship
 
-- Bulleted
-- List
+As part of the Decolonize Your Syllabus movement (#decolonizeyoursyllabus), Renae's academic interests center on writers of color from across the American Hemisphere.  Her scholarly interests also delve into occult practices and worldviews, such as: 
 
-1. Numbered
-2. List
+- witch culture 
+- popular culture centered on Pagan practice
+- goddess-centered religious paths 
 
-**Bold** and _Italic_ and `Code` text
+
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renaefae/faeportal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
