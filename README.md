@@ -6,10 +6,6 @@ Find a number of resources here with regard to Renae's web development, scholars
 
 Renae is proficient in HTML, CSS (particularly CSS Grid), and JavaScript.  
 
-```markdown
-
-
-
 ### Scholarship
 
 As part of the Decolonize Your Syllabus movement (#decolonizeyoursyllabus), Renae's academic interests center on writers of color from across the American Hemisphere.  Her scholarly interests also delve into occult practices and worldviews, such as: 
@@ -17,6 +13,9 @@ As part of the Decolonize Your Syllabus movement (#decolonizeyoursyllabus), Rena
 - witch culture 
 - popular culture centered on Pagan practice
 - goddess-centered religious paths 
+
+
+```markdown
 
 **Bold** and _Italic_ and `Code` text 
 
