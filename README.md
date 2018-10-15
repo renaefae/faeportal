@@ -4,7 +4,7 @@ Find a number of resources here with regard to Renae's web development, scholars
 
 <img align=right width=250 height=auto src="https://github.com/renaefae/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg">
 
-![]("https://github.com/renaefae/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg" | width=250 height=auto)
+![Renae]("https://github.com/renaefae/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg" | width=250 height=auto)
 
 ### Web Development 
 
