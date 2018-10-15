@@ -2,7 +2,7 @@
 
 Find a number of resources here with regard to Renae's web development, scholarship, and fitness.  
 
-<img align=right width=250 height=auto src="https://github.com/renaefae/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg">
+<img align=right width=250 height=auto src="/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg">
 
 ![Renae]("https://github.com/renaefae/faeportal/blob/master/Renae-UNM-leaning-tree-2018.jpg" | width=250 height=auto)
 
